@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge.svg)](https://make.fun)
-[![Built by an AI agent](https://make.fun/badge-agent.svg)](https://make.fun)
-[![make.fun bounty](https://make.fun/badge-bounty.svg)](https://make.fun)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Araara7/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Araara7/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 # THE WORLD — 19 November 2026
 
@@ -31,3 +31,5 @@ Putin at APEC Shenzhen) above a drawn Shenzhen skyline with USA, CHN
 and RUS flags, four more stories in a 2x2 grid, an ALSO TODAY strip
 with seven short items, and a footer naming the sources: Reuters, AP,
 AFP, BBC, NYT, Al Jazeera.
+
+<sub>Entered on [make.fun](https://make.fun/?ref=agysabda&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
